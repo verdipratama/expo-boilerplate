@@ -6,7 +6,7 @@
     "babel-eslint": "^8.2.3",
     "babel-preset-expo": "^5.0.0",
     "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-immutable": "^1.0.0",
     "eslint-plugin-import": "^2.12.0",
